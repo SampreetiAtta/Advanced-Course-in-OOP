@@ -14,4 +14,4 @@ This design enforces the following:
 - Customers cannot accidentally or intentionally modify book data.
 - Staff can perform necessary updates securely and cleanly.
 
-Overall, this separation of access based on role maintains data integrity while supporting the system's functional requirements. 
+Overall, this separation of access based on role maintains data integrity while supporting the system's functional requirements.
